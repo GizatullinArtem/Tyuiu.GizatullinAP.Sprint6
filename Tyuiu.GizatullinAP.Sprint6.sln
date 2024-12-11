@@ -17,7 +17,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.GizatullinAP.Sprint6.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.GizatullinAP.Sprint6.Task1.V24.Lib", "Tyuiu.GizatullinAP.Sprint6.Task1.V24.Lib\Tyuiu.GizatullinAP.Sprint6.Task1.V24.Lib.csproj", "{64B0B41D-FD4C-47E0-BB04-CA5B2FD1A9BB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.GiztullinAP.Sprint6.Task1.V24", "Tyuiu.GiztullinAP.Sprint6.Task1.V24\Tyuiu.GiztullinAP.Sprint6.Task1.V24.csproj", "{C54929FE-C788-4B17-99BC-3548B3DB8F20}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.GizatullinAP.Sprint6.Task1.V24", "Tyuiu.GiztullinAP.Sprint6.Task1.V24\Tyuiu.GizatullinAP.Sprint6.Task1.V24.csproj", "{C54929FE-C788-4B17-99BC-3548B3DB8F20}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
